@@ -1,0 +1,23 @@
+li:hover{
+   text-decoration: line-through;
+   color: blue; 
+}
+
+.uzduotys{
+    font-size: 175%;
+}
+
+.forma{
+  size: 200%;
+  display: flex;
+  justify-content: center;
+}
+
+.mygtukas{
+  background-color: blue;
+  color: white;
+}
+
+.input{
+    padding: 10px;
+}
